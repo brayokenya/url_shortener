@@ -21,6 +21,6 @@ npm start
 
 { "longUrl": "xxxx" }
 
-## License
+# License
 
-See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
+This project is open source and available under the [MIT](LICENSE.md) license.
